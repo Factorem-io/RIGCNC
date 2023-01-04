@@ -1,5 +1,7 @@
 # RIGCNC
+![RIGCNC](RIGCNC.JPG)
 Reasonably Inexpensive Granite CNC Machine
+
 Check out the Project write up here: https://Rigcnc.com
 or
 Join us on Discord https://discord.gg/nUDMupgdbz
