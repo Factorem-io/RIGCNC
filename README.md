@@ -1,6 +1,9 @@
 # RIGCNC
 Reasonably Inexpensive Granite CNC Machine
-Check out the Project Here: https://Rigcnc.com
+Check out the Project write up here: https://Rigcnc.com
+or
+Join us on Discord https://discord.gg/nUDMupgdbz
+
 I've left the Main Assembly in the Root folder for convenience.
 
 Total project should cost ~$1500. 
